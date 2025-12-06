@@ -45,3 +45,4 @@ func (todos *Todos) deleted(index int) error{
 	*todos = append(t[:index], t[index+1:]...)
 	return nil
 }
+
