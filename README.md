@@ -162,7 +162,7 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Built with ❤️ using Go
+Mohammad Shahriar
 
 ---
 
